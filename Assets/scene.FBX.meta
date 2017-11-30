@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: 53e85743ea1c708438a85a90980eb8ab
+timeCreated: 1511863730
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: backdoor
+    100002: Camera001
+    100004: Camera001.Target
+    100006: door1
+    100008: door2
+    100010: floor
+    100012: knock1
+    100014: knock2
+    100016: knock2 1
+    100018: knock4
+    100020: left_door
+    100022: low_door
+    100024: mirror1
+    100026: mirror2
+    100028: Omni001
+    100030: right_door
+    100032: //RootNode
+    100034: Spot002
+    100036: Spot002.Target
+    100038: top_door
+    100040: vanna
+    100042: vase
+    100044: wall1
+    100046: wall2
+    100048: wall3
+    100050: wall4
+    100052: water
+    400000: backdoor
+    400002: Camera001
+    400004: Camera001.Target
+    400006: door1
+    400008: door2
+    400010: floor
+    400012: knock1
+    400014: knock2
+    400016: knock2 1
+    400018: knock4
+    400020: left_door
+    400022: low_door
+    400024: mirror1
+    400026: mirror2
+    400028: Omni001
+    400030: right_door
+    400032: //RootNode
+    400034: Spot002
+    400036: Spot002.Target
+    400038: top_door
+    400040: vanna
+    400042: vase
+    400044: wall1
+    400046: wall2
+    400048: wall3
+    400050: wall4
+    400052: water
+    2000000: Camera001
+    2300000: backdoor
+    2300002: door1
+    2300004: door2
+    2300006: floor
+    2300008: knock1
+    2300010: knock2
+    2300012: knock2 1
+    2300014: knock4
+    2300016: left_door
+    2300018: low_door
+    2300020: mirror1
+    2300022: mirror2
+    2300024: right_door
+    2300026: top_door
+    2300028: vanna
+    2300030: vase
+    2300032: wall1
+    2300034: wall2
+    2300036: wall3
+    2300038: wall4
+    2300040: water
+    3300000: backdoor
+    3300002: door1
+    3300004: door2
+    3300006: floor
+    3300008: knock1
+    3300010: knock2
+    3300012: knock2 1
+    3300014: knock4
+    3300016: left_door
+    3300018: low_door
+    3300020: mirror1
+    3300022: mirror2
+    3300024: right_door
+    3300026: top_door
+    3300028: vanna
+    3300030: vase
+    3300032: wall1
+    3300034: wall2
+    3300036: wall3
+    3300038: wall4
+    3300040: water
+    4300000: door2
+    4300002: backdoor
+    4300004: low_door
+    4300006: right_door
+    4300008: left_door
+    4300010: door1
+    4300012: mirror2
+    4300014: mirror1
+    4300016: vase
+    4300018: knock2
+    4300020: knock2
+    4300022: knock1
+    4300024: knock4
+    4300026: floor
+    4300028: wall1
+    4300030: wall4
+    4300032: wall3
+    4300034: wall2
+    4300036: vanna
+    4300038: water
+    4300040: top_door
+    10800000: Omni001
+    10800002: Spot002
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
